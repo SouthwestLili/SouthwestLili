@@ -6,18 +6,15 @@
 
 💡 Passionate about software development, artificial intelligence, and machine learning.
 
-- 🔭 I’m currently working on exciting full-stack and AI-driven projects  
-- 🌱 Exploring topics in algorithms, system design, and web architecture  
-- 📫 How to reach me: [liliwang4@cmail.carleton.ca](mailto:liliwang4@cmail.carleton.ca)  
-- 😄 Pronouns: she/her  
-- ⚡ Fun fact: I love building things that blend creativity with code!  
+	- 🔭 I’m currently working on exciting full-stack and AI-driven projects  
+	- 🌱 Exploring topics in algorithms, system design, and web architecture  
+	- 📫 How to reach me: [liliwang4@cmail.carleton.ca](mailto:liliwang4@cmail.carleton.ca)  
+	- 😄 Pronouns: she/her  
+	- ⚡ Fun fact: I love building things that blend creativity with code!  
 
 If you want to connect, feel free to reach out!
 
-
----
-
-## 🛠️ Tech Stack
+### 🛠️ Tech Stack
 
 **Languages:**  
 
@@ -40,9 +37,7 @@ If you want to connect, feel free to reach out!
 	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/spring_boot.png" alt="Spring Boot" title="Spring Boot"/></code>
 </div>
 
----
-
-## 🌟 Featured Project - Pending
+### 🌟 Featured Project - Pending
 
 Small Side Project:
 [**Travel E-Portfolio**](https://travel-eportfolio-v2.vercel.app/)  
