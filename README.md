@@ -1,10 +1,10 @@
 # Hi there, I'm Lili 👋
 
-#### ✨ Always eager to learn and collaborate on new projects!  
+<b>✨ Always eager to learn and collaborate on new projects!  </b>
 
-#### 🎓 Currently studying Computer Science – Software Engineering stream at Carleton University.
+<b>🎓 Currently studying Computer Science – Software Engineering stream at Carleton University. </b>
 
-#### 💡 Passionate about software development, artificial intelligence, and machine learning.
+<b>💡 Passionate about software development, artificial intelligence, and machine learning. </b>
 
 
 - 🔭 I’m currently working on exciting full-stack and AI-driven projects  
