@@ -1,12 +1,21 @@
 # Hi there, I'm Lili 👋
 
-🎓 **Student @ Carleton University**  
+✨ Always eager to learn and collaborate on new projects!  
+🎓 Currently studying Computer Science – Software Engineering stream at Carleton University.
+💡 Passionate about software development, artificial intelligence, and machine learning.
 
-Majoring in Computer Science - Software Engineering steam
+---
 
-Passionate about software development, AI, and machine learning.
+- 🔭 I’m currently working on exciting full-stack and AI-driven projects  
+- 🌱 Exploring topics in algorithms, system design, and web architecture  
+- 📫 How to reach me: [liliwang4@cmail.carleton.ca](mailto:liliwang4@cmail.carleton.ca)  
+- 😄 Pronouns: she/her  
+- ⚡ Fun fact: I love building things that blend creativity with code!  
 
-📫How to reach me: liliwang4@cmail.carleton.ca
+---
+
+If you want to connect, feel free to reach out!
+
 
 ---
 
@@ -35,7 +44,7 @@ Passionate about software development, AI, and machine learning.
 
 ---
 
-## 🌟 Featured Project Pending
+## 🌟 Featured Project - Pending
 
 Small Side Project:
 [**Travel E-Portfolio**](https://travel-eportfolio-v2.vercel.app/)  
@@ -43,19 +52,6 @@ A modern web application showcasing travel journeys and e-portfolios.
 _Built with Next.js, TailwindCSS, Node.js, and more!_
 
 
----
 
-<!--
-✨ Always eager to learn and collaborate on new projects!
-If you want to connect, feel free to reach out!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
--->
