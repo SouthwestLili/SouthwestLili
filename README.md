@@ -6,6 +6,7 @@
 
 #### 💡 Passionate about software development, artificial intelligence, and machine learning.
 
+
 - 🔭 I’m currently working on exciting full-stack and AI-driven projects  
 - 🌱 Exploring topics in algorithms, system design, and web architecture  
 - 📫 How to reach me: [liliwang4@cmail.carleton.ca](mailto:liliwang4@cmail.carleton.ca)  
