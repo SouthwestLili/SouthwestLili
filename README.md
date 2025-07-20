@@ -1,18 +1,16 @@
 # Hi there, I'm Lili 👋
 
 ✨ Always eager to learn and collaborate on new projects!  
-🎓 Currently studying Computer Science – Software Engineering stream at Carleton University.
-💡 Passionate about software development, artificial intelligence, and machine learning.
 
----
+🎓 Currently studying Computer Science – Software Engineering stream at Carleton University.
+
+💡 Passionate about software development, artificial intelligence, and machine learning.
 
 - 🔭 I’m currently working on exciting full-stack and AI-driven projects  
 - 🌱 Exploring topics in algorithms, system design, and web architecture  
 - 📫 How to reach me: [liliwang4@cmail.carleton.ca](mailto:liliwang4@cmail.carleton.ca)  
 - 😄 Pronouns: she/her  
 - ⚡ Fun fact: I love building things that blend creativity with code!  
-
----
 
 If you want to connect, feel free to reach out!
 
