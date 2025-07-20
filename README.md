@@ -11,6 +11,7 @@ Passionate about software development, AI, and machine learning.
 ## 🛠️ Tech Stack
 
 **Languages:**  
+https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/html.png 
 ![Java](https://img.shields.io/badge/Java-blue?logo=java) ![Python](https://img.shields.io/badge/Python-yellow?logo=python) ![HTML5](https://img.shields.io/badge/HTML5-orange?logo=html5) ![CSS3](https://img.shields.io/badge/CSS3-blue?logo=css3) ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript) ![MySQL](https://img.shields.io/badge/MySQL-blue?logo=mysql)
 
 **Frameworks & Libraries:**  
