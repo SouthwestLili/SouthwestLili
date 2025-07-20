@@ -6,6 +6,8 @@ Majoring in Computer Science - Software Engineering steam
 
 Passionate about software development, AI, and machine learning.
 
+📫How to reach me: liliwang4@cmail.carleton.ca
+
 ---
 
 ## 🛠️ Tech Stack
@@ -40,12 +42,6 @@ Small Side Project:
 A modern web application showcasing travel journeys and e-portfolios.  
 _Built with Next.js, TailwindCSS, Node.js, and more!_
 
-
----
-
-## 📫 Connect with Me
-
-     liliwang4@cmail.carleton.ca
 
 ---
 
