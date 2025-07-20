@@ -1,7 +1,9 @@
 # Hi there, I'm Lili 👋
 
 🎓 **Student @ Carleton University**  
+
 Majoring in Computer Science - Software Engineering steam
+
 Passionate about software development, AI, and machine learning.
 
 ---
