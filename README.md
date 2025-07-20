@@ -13,7 +13,7 @@
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I love building things that blend creativity with code!  
 
-If you want to connect, feel free to reach out!
+<b> If you want to connect, feel free to reach out!</b>
 
 ---
 
