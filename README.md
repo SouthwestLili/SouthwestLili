@@ -1,9 +1,38 @@
-## Hi there 👋
+# Hi there, I'm Lili 👋
+
+🎓 **Student @ Carleton University**  
+Majoring in Computer Science - Software Engineering steam
+Passionate about software development, AI, and machine learning.
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages:**  
+![Java](https://img.shields.io/badge/Java-blue?logo=java) ![Python](https://img.shields.io/badge/Python-yellow?logo=python) ![HTML5](https://img.shields.io/badge/HTML5-orange?logo=html5) ![CSS3](https://img.shields.io/badge/CSS3-blue?logo=css3) ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript) ![MySQL](https://img.shields.io/badge/MySQL-blue?logo=mysql)
+
+**Frameworks & Libraries:**  
+![Node.js](https://img.shields.io/badge/Node.js-green?logo=node.js) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-darkgreen?logo=springboot) ![React](https://img.shields.io/badge/React-blue?logo=react) ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-teal?logo=tailwindcss) ![Next.js](https://img.shields.io/badge/Next.js-black?logo=next.js)
+
+---
+
+## 🌟 Featured Project
+
+[**Travel E-Portfolio**](https://travel-eportfolio-v2.vercel.app/)  
+A modern web application showcasing travel journeys and e-portfolios.  
+_Built with Next.js, TailwindCSS, Node.js, and more!_
+
+---
+
+## 📫 Connect with Me
+
+     liliwang4@cmail.carleton.ca
+
+---
 
 <!--
-**SouthwestLili/SouthwestLili** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+✨ Always eager to learn and collaborate on new projects!
+If you want to connect, feel free to reach out!
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -13,4 +42,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
 -->
