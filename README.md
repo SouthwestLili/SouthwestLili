@@ -18,6 +18,7 @@ Passionate about software development, AI, and machine learning.
 
 ---
 
+<!--
 ## 🌟 Featured Project Pending
 
 Small Side Project:
@@ -25,6 +26,8 @@ Small Side Project:
 A modern web application showcasing travel journeys and e-portfolios.  
 _Built with Next.js, TailwindCSS, Node.js, and more!_
 
+
+-->
 ---
 
 ## 📫 Connect with Me
