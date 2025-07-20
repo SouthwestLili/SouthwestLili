@@ -2,7 +2,7 @@
 
 <b>✨ Always eager to learn and collaborate on new projects!  </b>
 
-<b>🎓 Currently studying Computer Science – Software Engineering stream at Carleton University. </b>
+<b>🎓 Currently studying CS – Software Engineering stream at Carleton University. </b>
 
 <b>💡 Passionate about software development, artificial intelligence, and machine learning. </b>
 
