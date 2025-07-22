@@ -1,5 +1,7 @@
 # Hi there, I'm Lili 👋
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Bitcount&size=19&pause=1000&color=1AFF10&background=FF165700&width=435&lines=Passionate+about+Software+Development)](https://git.io/typing-svg)
+
 <b>✨ Always eager to learn and collaborate on new projects!  </b>
 
 <b>🎓 Currently studying CS – Software Engineering stream at Carleton University. </b>
