@@ -59,6 +59,7 @@ Small Side Project:
 A modern web application showcasing travel journeys and e-portfolios.  
 _Built with Next.js, TailwindCSS, Node.js, and more!_
 
+---
 
 ###
 
