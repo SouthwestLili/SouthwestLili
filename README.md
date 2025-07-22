@@ -17,6 +17,7 @@
 
 <b> If you want to connect, feel free to reach out!</b>
 
+<---
 ###
 
 <div align="left">
@@ -40,6 +41,8 @@
 </picture>
 
 ###
+
+--->
 ---
 
 ### 🛠️ Tech Stack
