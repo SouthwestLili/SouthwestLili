@@ -44,12 +44,7 @@
 
 ---
 
-### 🌟 Featured Project - Pending
 
-Small Side Project:
-[**Travel E-Portfolio**](https://travel-eportfolio-v2.vercel.app/)  
-A modern web application showcasing travel journeys and e-portfolios.  
-_Built with Next.js, TailwindCSS, Node.js, and more!_
 
 
 
