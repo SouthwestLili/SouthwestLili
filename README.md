@@ -2,20 +2,14 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Bitcount&weight=400&size=19&pause=1000&color=1AFF10&background=FF165700&center=true&width=435&lines=Passionate+about+Software+Development)](https://git.io/typing-svg)
 
-<b>✨ Always eager to learn and collaborate on new projects!  </b>
 
-<b>🎓 Currently studying CS – Software Engineering stream at Carleton University. </b>
-
-<b>💡 Passionate about software development, artificial intelligence, and machine learning. </b>
-
-
+- 🎓 Currently studying CS – Software Engineering stream at Carleton University
 - 🔭 I’m currently working on exciting full-stack and AI-driven projects  
 - 🌱 Exploring topics in algorithms, system design, and web architecture  
 - 📫 How to reach me: [liliwang4@cmail.carleton.ca](mailto:liliwang4@cmail.carleton.ca)  
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I love building things that blend creativity with code!  
-
-<b> If you want to connect, feel free to reach out!</b>
+- ✨ Always eager to learn and collaborate on new projects!
 
 ---
 
