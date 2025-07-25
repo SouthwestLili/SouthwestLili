@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Bitcount&weight=400&size=19&pause=1000&color=1AFF10&background=FF165700&center=true&width=435&lines=Passionate+about+Software+Development)](https://git.io/typing-svg)
 
 
-- 🎓 Currently studying CS – Software Engineering stream at Carleton University
+- 🎓 Currently studying CS – Software Engineering stream at Carleton University as my second degree
 - 🔭 I’m currently working on exciting full-stack and AI-driven projects  
 - 🌱 Exploring topics in algorithms, system design, and web architecture  
 - 📫 How to reach me: [liliwang4@cmail.carleton.ca](mailto:liliwang4@cmail.carleton.ca)  
