@@ -5,10 +5,10 @@
 
 - 🥬 Currently studying AI/ML at Carleton University 
 - 🥒 I’m currently working on exciting full-stack and AI-driven projects  
-- 🍋‍🟩 Exploring topics in algorithms, system design, and web architecture
+- 🫛 Exploring topics in algorithms, system design, and web architecture
 - 🍁 Canadian citizen with TN visa eligibility for employment in the United States
 - 🥑 How to reach me: [liliwang4@cmail.carleton.ca](mailto:liliwang4@cmail.carleton.ca)  
-- 🫛 Pronouns: she/her
+- 🍏 Pronouns: she/her
 - 🥝 Fun fact: I love building things that blend creativity with code!  
 - 🫑 Always eager to learn and collaborate on new projects!
 - 🥦 My Portfolio website - https://abc-lili.vercel.app/ (‼️The backend is hosted on Render’s free plan, so it might be asleep when you try to access the site. Please give it a moment to wake up.)
