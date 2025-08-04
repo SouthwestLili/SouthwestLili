@@ -11,7 +11,7 @@
 - 🍏 Pronouns: she/her
 - 🥝 Fun fact: I love building things that blend creativity with code!  
 - 🫑 Always eager to learn and collaborate on new projects!
-- 🥦 My Portfolio website - https://abc-lili.vercel.app/ (‼️The backend is hosted on Render’s free plan, so it might be asleep when you try to access the site. Please give it a moment to wake up.)
+- 🥦 My Portfolio website - https://liliwang.dev/ (‼️The backend is hosted on Render’s free plan, so it might be asleep when you try to access the site. Please give it a moment to wake up.)
 
 ---
 
