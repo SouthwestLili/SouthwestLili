@@ -7,7 +7,7 @@
 - 🥒 I’m currently working on exciting full-stack and AI-driven projects  
 - 🫛 Exploring topics in algorithms, system design, and web architecture
 - 🍁 Canadian citizen with TN visa eligibility for employment in the United States
-- 🥑 How to reach me: [liliwang4@cmail.carleton.ca](mailto:liliwang4@cmail.carleton.ca)  
+- 🥑 How to reach me: lili.bnottawa@gmail.com 
 - 🍏 Pronouns: she/her
 - 🥝 Fun fact: I love building things that blend creativity with code!  
 - 🫑 Always eager to learn and collaborate on new projects!
