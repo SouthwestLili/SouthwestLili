@@ -6,6 +6,7 @@
 - 🥬 Currently studying AI/ML at Carleton University 
 - 🥒 I’m currently working on exciting full-stack and AI-driven projects  
 - 🫛 Exploring topics in algorithms, system design, and web architecture
+- 🍀 Hold a Bachelor’s degree in Electrical Engineering
 - 🍁 Canadian citizen with TN visa eligibility for employment in the United States
 - 🥑 How to reach me: lili.bnottawa@gmail.com 
 - 🍏 Pronouns: she/her
