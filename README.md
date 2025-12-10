@@ -1,10 +1,10 @@
-<h1 align="center">
+<h1 align="left">
   <span style="background: linear-gradient(90deg, #a6ffcb, #12d8fa, #1fa2ff); -webkit-background-clip: text; color: transparent;">
     💚 Hi, I'm Lili
   </span>
 </h1>
 
-<h3 align="center" style="color: #6f6f6f;">happy to see you. 👋</h3>
+<h2 align="center" style="color: #6f6f6f;">happy to see you. 👋</h2>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Bitcount&weight=400&size=19&pause=1000&color=1AFF10&background=FF165700&center=true&width=435&lines=Passionate+about+Software+Development)](https://git.io/typing-svg)
 
