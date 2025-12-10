@@ -4,6 +4,7 @@
 
 
 - 🥬 Currently studying AI/ML at Carleton University 
+- 🎄 Currently taking Statistics and Data Science MicroMaster Program at MIT 
 - 🥒 I’m currently working on exciting full-stack and AI-driven projects  
 - 🫛 Exploring topics in algorithms, system design, and web architecture
 - 🍀 Hold a Bachelor’s degree in Electrical Engineering
