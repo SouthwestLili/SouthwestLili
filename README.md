@@ -21,7 +21,6 @@
 - 🍐 My Community: https://www.sylvanet.org/
 - 💚 SylvaNet Hub was founded on August 9, 2025 & Features are still under development..
 
-  
 ---
 
 ### 🛠️ Tech Stack
@@ -52,8 +51,11 @@
 
 ---
 
+### 📂 Projects
 
+**My first LangChain Chat demo:** https://github.com/SouthwestLili/langchain-demo
 
+---
 
 
 
