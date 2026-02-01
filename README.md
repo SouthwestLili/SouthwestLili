@@ -11,7 +11,7 @@
 - 🎄 Currently completing <b>the MIT x MicroMasters Program in Statistics and Data Science</b>
 - 🥒 I’m currently working on exciting full-stack and AI-driven projects  
 - 🫛 Exploring topics in algorithms, system design, and web architecture
-- 💐 Participated in Kaggle competitions, earning 1 Silver Medal
+- 💐 Participated in KAGGLE competitions, earning 1 Silver Medal
 - 🍀 Hold a Bachelor’s degree in Electrical Engineering
 - 🍁 Canadian citizen with TN visa eligibility for employment in the United States
 - 🥑 How to reach me: lili.bnottawa@gmail.com 
@@ -53,11 +53,11 @@
 
 ### 🕹️ Solving problems
 
-**Practicing LeetCode problems:** https://github.com/SouthwestLili/LeetCode.git
+- **Practicing LeetCode problems:** https://github.com/SouthwestLili/LeetCode.git
 
 ### 📂 Side Projects
 
-- **🎉 Silver Medalist - Kaggle: CSIRO - Image2Biomass Prediction - by Jan 28, 2026**
+- **🎉 Silver Medalist - KAGGLE: CSIRO - Image2Biomass Prediction - by Jan 28, 2026**
 
 - **My first LangChain Chat demo:** https://github.com/SouthwestLili/langchain-demo
 
