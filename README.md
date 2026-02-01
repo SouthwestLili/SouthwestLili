@@ -52,7 +52,11 @@
 
 ---
 
-### 📂 Projects
+### 🕹️ Solving problems
+
+**Practicing LeetCode problems:** https://github.com/SouthwestLili/LeetCode.git
+
+### 📂 Side Projects
 
 **My first LangChain Chat demo:** https://github.com/SouthwestLili/langchain-demo
 
