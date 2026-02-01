@@ -18,8 +18,6 @@
 - 🥝 Fun fact: I love building things that blend creativity with code!  
 - 🫑 Always eager to learn and collaborate on new projects!
 - 🥦 My Portfolio website - https://liliwang.dev/ 
-- 🍐 My Community: https://www.sylvanet.org/
-- 💚 SylvaNet Hub was founded on August 9, 2025 & Features are still under development..
 
 ---
 
