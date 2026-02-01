@@ -11,6 +11,7 @@
 - 🎄 Currently completing <b>the MIT x MicroMasters Program in Statistics and Data Science</b>
 - 🥒 I’m currently working on exciting full-stack and AI-driven projects  
 - 🫛 Exploring topics in algorithms, system design, and web architecture
+- 💐 Participated in Kaggle competitions, earning 1 Silver Medal
 - 🍀 Hold a Bachelor’s degree in Electrical Engineering
 - 🍁 Canadian citizen with TN visa eligibility for employment in the United States
 - 🥑 How to reach me: lili.bnottawa@gmail.com 
