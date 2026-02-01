@@ -57,6 +57,7 @@
 ### 📂 Side Projects
 
 **My first LangChain Chat demo:** https://github.com/SouthwestLili/langchain-demo
+
 **Community Website:** https://www.sylvanet.org/
 
 ---
