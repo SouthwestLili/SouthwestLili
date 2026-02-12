@@ -59,7 +59,7 @@
 
 - **🎉 Silver Medalist - KAGGLE: CSIRO - Image2Biomass Prediction - by Jan 28, 2026**
 
-- **My first LangChain Chat demo:** https://github.com/SouthwestLili/langchain-demo
+- **🔥 My first LangChain Chat demo:** https://github.com/SouthwestLili/langchain-demo
 
 - **Community Website:** https://www.sylvanet.org/
 
