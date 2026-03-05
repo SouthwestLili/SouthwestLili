@@ -51,6 +51,12 @@
 
 ---
 
+### 💚 AI Full Stack
+
+- [Study Docs](https://github.com/SouthwestLili/ai-full-stack)
+
+- [My Projects](https://github.com/SouthwestLili/ai-full-stack)
+
 ### 🕹️ Solving problems
 
 - [**Practicing LEETCODE problems:**](https://github.com/SouthwestLili/LeetCode.git)
