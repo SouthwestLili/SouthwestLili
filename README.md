@@ -18,7 +18,7 @@
 - 🍏 Pronouns: she/her
 - 🥝 Fun fact: I love building things that blend creativity with code!  
 - 🫑 Always eager to learn and collaborate on new projects!
-- 🥦 My Portfolio website - https://liliwang.dev/ 
+- 🥦 My research Journal Hub website - [https://liliwang.dev/ ](https://personal-research-hub-inky.vercel.app/)
 
 ---
 
